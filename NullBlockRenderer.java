@@ -10,7 +10,7 @@ import org.jsoup.nodes.Document;
 import java.util.*;
 
 /**
- * NULL that fucking adblocker buddy. Fuck it!
+ * NULL that ****ing adblocker buddy. **** it!
  */
 public class NullBlockRenderer extends AbstractDocumentModifier {
 
